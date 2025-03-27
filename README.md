@@ -1,5 +1,7 @@
 ## Hi there, I'm Ranti!
- ---
+
+**CyberDiva1368/CyberDiva1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+
 <!--
 **CyberDiva1368/CyberDiva1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 Welcome to my cloud security portfolio. Here, I showcase my projects, certifications, and resources.
