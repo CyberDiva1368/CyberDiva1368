@@ -23,9 +23,9 @@ AWS Security Projects
             <li> <strong>S3 Bucket Security:</strong> Configured bucket policies, encryption, and access logging.</li>
             <li> <strong>Security Hub Compliance:</strong> Assessed AWS security posture using CIS benchmarks.</li>
        
-Cloud Computing (AWS): AWS services (S3, EC2, Lambda, etc.), Cloud Security
-Cybersecurity: Network Security, Cloud Security, Threat Detection
-Machine Learning: Anomaly Detection, Supervised & Unsupervised Learning
+1. Cloud Computing (AWS): AWS services (S3, EC2, Lambda, etc.), Cloud Security
+2. Cybersecurity: Network Security, Cloud Security, Threat Detection
+3. Machine Learning: Anomaly Detection, Supervised & Unsupervised Learning
 Objective: Automate the process of checking S3 bucket permissions for misconfigurations.
 Technologies: AWS SDK 
 Description: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.
@@ -46,6 +46,14 @@ Description: This project demonstrates the deployment of a static React web appl
 Objective: Automate file backup processes between S3 buckets using AWS Lambda and S3 Event Notifications.
 Technologies: AWS Lambda, Amazon S3, 
 Description: This project automates the backup of files from a source S3 bucket to a destination bucket whenever a new file is uploaded. Using serverless architecture with Lambda and S3 Event Triggers, it eliminates the need for manual backups. The implementation covers key cloud skills, including event-driven architecture, IAM role configuration, and cost-effective automation. Perfect for businesses needing reliable, scalable, and hands-free data backup solutions.
+
+### Work Experience
+- *[CLOUD DATA ENCRYPTION IMPLEMENTATION USING AWS KMS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20DATA%20ENCRYPTION%20IMPLEMENTATION%20USING%20AWS%20KMS)*
+- *[CLOUD INCIDENT RESPONSE SIMULATION & FORENSIC ANALYSIS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20INCIDENT%20RESPONSE%20SIMULATION%20%26%20FORENSIC%20ANALYSIS)*
+- *[CLOUD NETWORK SECURITY ENHANCEMENT IN AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20NETWORK%20SECURITY%20ENHANCEMENT%20IN%20AWS)*
+- *[CLOUD SECURITY COMPLIANCE ASSESSMENT WITH AWS SECURITY HUB](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20SECURITY%20COMPLIANCE%20ASSESSMENT%20WITH%20AWS%20SECURITY%20HUB)*
+- *[CLOUD SECURITY MONITORING & THREAT DETECTION IN AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20SECURITY%20MONITORING%20%26%20THREAT%20DETECTION%20IN%20AWS)*
+  
 🔮 Future Plans
 This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced Cloud computing and Machine learning applications, demonstrating a broad range of skills.
  
