@@ -1,6 +1,6 @@
 ## Hi there, I'm Ranti!
 
-<li><a href="(https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Company)">AWS Security Documentation</a></li>
+<a href="(https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Company)">AWS Security Documentation</a>
 
 <a href="/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Solutions-Provider" itemprop="name codeRepository">Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Solutions-Provider</a>
 
