@@ -23,7 +23,10 @@ Welcome to my cloud security portfolio. Here, I showcase my projects, certificat
 <li> <strong>SeIAM Security:</strong> Implemented least privilege access and MFA enforcement.</li>
             <li> <strong>S3 Bucket Security:</strong> Configured bucket policies, encryption, and access logging.</li>
             <li> <strong>Ccurity Hub Compliance:</strong> Assessed AWS security posture using CIS benchmarks.</li>
-        
+        Cloud Computing (AWS): AWS services (S3, EC2, Lambda, etc.), Cloud Security
+Cybersecurity: Network Security, Cloud Security, Threat Detection
+Machine Learning: Anomaly Detection, Supervised & Unsupervised Learning
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
