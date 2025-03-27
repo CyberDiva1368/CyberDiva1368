@@ -4,29 +4,32 @@
 
 
 
-### Welcome to my cloud security portfolio. Here, I showcase my projects, certifications, and resources.
-   I am a Cloud Security Engineer with expertise in securing AWS environments, implementing IAM best practices, and monitoring cloud security threats.
-       AWS Security Projects
-         CloudTrail & GuardDuty: Set up logging and threat detection.
-         IAM Security: Implemented least privilege access and MFA enforcement.
-         S3 Bucket Configured bucket policies, encryption, and access logging.
-         Assessed AWS security posture using CIS benchmarks.
+### Welcome to my cloud security portfolio. Here, I showcase my projects, certifications, and resources. 
+I am a Cloud Security Engineer with expertise in securing AWS environments, implementing IAM best practices, and monitoring cloud security threats.
+
+AWS Security Projects
+- CloudTrail & GuardDuty: Set up logging and threat detection.
+- IAM Security: Implemented least privilege access and MFA enforcement.
+-  S3 Bucket Configured bucket policies, encryption, and access logging.
+-  Assessed AWS security posture using CIS benchmarks.
          
-       Skills & Tools
-       : IAM, Security Groups, KMS, CloudTrail, GuardDuty
-            AWS WAF, Shield, Config, Security Hub
-            AWS Security Hub, Incident Response
+ Skills & Tools
+- IAM, Security Groups, KMS, CloudTrail, GuardDuty
+-  AWS WAF, Shield, Config, Security Hub
+-  AWS Security Hub, Incident Response
             
 <li> <strong>CloudTrail & GuardDuty:</strong> Set up logging and threat detection.</li>
 <li> <strong>SeIAM Security:</strong> Implemented least privilege access and MFA enforcement.</li>
             <li> <strong>S3 Bucket Security:</strong> Configured bucket policies, encryption, and access logging.</li>
             <li> <strong>Security Hub Compliance:</strong> Assessed AWS security posture using CIS benchmarks.</li>
-        Cloud Computing (AWS): AWS services (S3, EC2, Lambda, etc.), Cloud Security
+       
+Cloud Computing (AWS): AWS services (S3, EC2, Lambda, etc.), Cloud Security
 Cybersecurity: Network Security, Cloud Security, Threat Detection
 Machine Learning: Anomaly Detection, Supervised & Unsupervised Learning
 Objective: Automate the process of checking S3 bucket permissions for misconfigurations.
 Technologies: AWS SDK 
 Description: This tool verifies S3 bucket permissions, ensuring that they are properly secured according to AWS best practices.
+
 4. ☁️ EC2 Web Application Deployment
 Objective: Learn to deploy and host a web application on an AWS EC2 instance using a basic web server.
 Technologies: AWS EC2, SSH, 
