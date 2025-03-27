@@ -1,6 +1,6 @@
 ## Hi there, I'm Ranti!
 
-<li><a href="https://aws.amazon.com/security/">AWS Security Documentation</a></li>
+<li><a href="(https://github.com/RosemaryAdebanwi/Evaluating-Specific-GRC-Needs-and-Selecting-A-Suitable-Platform-For-An-IT-Company)">AWS Security Documentation</a></li>
 
 **CyberDiva1368/CyberDiva1368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 Welcome to my cloud security portfolio. Here, I showcase my projects, certifications, and resources.
