@@ -4,7 +4,7 @@
 ## Overview
 ---
 
-    As a Cloud Security Professional, I designed and implemented a secure Identity and 
+ I designed and implemented a secure Identity and 
 Access Management (IAM) system in AWS, demonstrating best practices in access 
 control, least privilege enforcement, and Multi-Factor Authentication (MFA). This 
 project showcases my ability to manage IAM effectively, ensuring security and 
