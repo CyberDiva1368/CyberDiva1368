@@ -53,7 +53,12 @@ Description: This project automates the backup of files from a source S3 bucket 
 - *[CLOUD NETWORK SECURITY ENHANCEMENT IN AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20NETWORK%20SECURITY%20ENHANCEMENT%20IN%20AWS)*
 - *[CLOUD SECURITY COMPLIANCE ASSESSMENT WITH AWS SECURITY HUB](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20SECURITY%20COMPLIANCE%20ASSESSMENT%20WITH%20AWS%20SECURITY%20HUB)*
 - *[CLOUD SECURITY MONITORING & THREAT DETECTION IN AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/75ec3a3c8dad59ae8eb54c07fd1e655b9a31e688/Work%20Experience/CLOUD%20SECURITY%20MONITORING%20%26%20THREAT%20DETECTION%20IN%20AWS)*
-  
+ - *[IAM Security Management in AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/707b1a4c5f3a9216b935eac064670a86692bfd29/Work%20Experience/IAM%20Security%20Management%20in%20AWS)*
+ - *[ SECURE WEB APPLICATION DEPLOYMENT IN AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/707b1a4c5f3a9216b935eac064670a86692bfd29/Work%20Experience/SECURE%20WEB%20APPLICATION%20DEPLOYMENT%20IN%20AWS)*
+ - *[ SECURING CONTAINERIZED WORKLOADS IN AWS EKS](https://github.com/CyberDiva1368/CyberDiva1368/tree/707b1a4c5f3a9216b935eac064670a86692bfd29/Work%20Experience/SECURING%20CONTAINERIZED%20WORKLOADS%20IN%20AWS%20EKS)*
+ - *[Securing Web Application Deployment in AWS](https://github.com/CyberDiva1368/CyberDiva1368/tree/707b1a4c5f3a9216b935eac064670a86692bfd29/Work%20Experience/Securing%20Web%20App%20in%20AWS)*
+ - *[Tasked with Securing AWS S3 Bucket Configuration.](https://github.com/CyberDiva1368/CyberDiva1368/tree/707b1a4c5f3a9216b935eac064670a86692bfd29/Work%20Experience/Tasked%20with%20Securing%20AWS%20S3%20Bucket%20Configuration)*
+
 🔮 Future Plans
 This repository will be continually updated with new projects as I progress through the curriculum. I plan to expand my portfolio with more complex and advanced Cloud computing and Machine learning applications, demonstrating a broad range of skills.
  
